@@ -17,14 +17,14 @@ Currently working as a mobile developer Full Stack Developer (Android). I am als
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
+    - 🔭 I’m currently working on: Android developer, Backend developer, Ios developer (Swift) </br>
     - 🌱 I’m currently learning Androdi,Java,Swift,SwiftUI,PHP,NodeJS,GoLang </br>
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:islahudin.soft01engineer@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: I eat Food. 🍜 </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=islahudin&show_icons=true&theme=radical" />

@@ -16,6 +16,7 @@ Currently working as a mobile developer Full Stack Developer (Android). I am als
     <img src="https://img.shields.io/badge/Database-MySQL-blue?&logo=MySQL" />
     <img src="https://img.shields.io/badge/Remote-TeamViewer-blue?&logo=TeamViewer" />
     <img src="https://img.shields.io/badge/REST%20Client-Postman-blue?&logo=postman" />
+    <img src="https://img.shields.io/badge/UI/UX-Figma-blue?&logo=figma" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/islahudin" />
 </p>

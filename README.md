@@ -18,6 +18,8 @@ Currently working as a mobile developer Full Stack Developer (Android). I am als
     <img src="https://img.shields.io/badge/REST%20Client-Postman-blue?&logo=postman" />
     <img src="https://img.shields.io/badge/UI/UX-Figma-blue?&logo=figma" />
     <img src="https://img.shields.io/badge/FTP%20Client-FileZilla-blue?&logo=FileZilla" />
+    <img src="https://img.shields.io/badge/Code-Dart-blue?&logo=dart" />
+    <img src="https://img.shields.io/badge/Code-Flutter-blue?&logo=flutter" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/islahudin" />
 </p>
@@ -44,12 +46,14 @@ Currently working as a mobile developer Full Stack Developer (Android). I am als
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <br/>  
 
 <!-- #### Frameworks/Platforms:
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <br/> 
 
 #### Data: 

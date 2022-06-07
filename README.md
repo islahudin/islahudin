@@ -4,6 +4,7 @@ Currently working as a mobile developer Full Stack Developer (Android). I am als
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/OS-iOS-blue?&logo=ios" />
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/OS-Android-blue?&logo=android" />
